@@ -3,7 +3,7 @@
 This project uses Machine Learning (Random Forest) to predict survival chances of Titanic passengers.
 
 ## 🔗 Live Demo
-👉 [Try the App Here]([https://venkkyyy-titanic-survival-prediction.streamlit.app](https://venkyyy-titanic-survival-prediction.streamlit.app/))
+👉 [Try the App Here]([https://venkkyyy-titanic-survival-prediction.streamlit.app](https://venkyyy-titanic-survival-prediction.streamlit.app/)
 
 ## 📂 Files
 - `titanic.py` → model training script  
